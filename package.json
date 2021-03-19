@@ -1,5 +1,5 @@
 {
-  "name": "consigcerto-frontend",
+  "name": "@JonathanThomaz/frontend-typescript-linter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
